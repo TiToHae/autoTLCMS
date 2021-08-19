@@ -1,0 +1,17 @@
+Dimitri:
+
+http://134.176.7.66/OC_manager/
+
+https://github.com/DimitriF/OC_manager
+
+pull
+ls(directory)
+git pull  https://github.com/DimitriF/OC_manager.git
+
+
+SSH:
+
+sudo apt-get --yes install openssh-server
+or
+sudo apt-get --yes install ssh
+/etc/init.d/ssh
